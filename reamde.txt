@@ -1,0 +1,33 @@
+
+------------------------------------------------------------------
+Exercise 1
+------------------------------------------------------------------
+
+To run the vocab script (the 3rd one is fastest):
+time python vocab_3rd.py -r local  --database=reddit.db dummy.txt > output.txt
+
+To sort the vocab script:
+sort -nrk2 output.txt | head -n 10
+
+
+
+------------------------------------------------------------------
+Exercise 2
+------------------------------------------------------------------
+
+To run:
+time python common_authors.py -r local  --database=reddit.db dummy.txt > output.txt
+
+To sort the vocab script:
+sort -nrk2 output.txt | head -n 10
+
+
+
+------------------------------------------------------------------
+Exercise 3
+------------------------------------------------------------------
+
+
+
+
+
