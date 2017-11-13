@@ -1,0 +1,17 @@
+Fethcing subreddit IDs...
+Subreddit IDs fetched. Time:  148.60076189041138  seconds
+Computing average thread depth for each subreddit...
+
+The 10 subreddit ids with largest average comment thread deapth are:
+1 	 rps 	 873.6698271054099
+2 	 MyLittleSupportGroup 	 490.5343208092485
+3 	 TagProCirclejerk 	 447.38029386343993
+4 	 counting 	 381.8134144242355
+5 	 geraffesaresodumb 	 372.14663726571115
+6 	 EroticRolePlay 	 271.39030837004407
+7 	 LetsChat 	 244.1347503900156
+8 	 SburbRP 	 215.50563746747616
+9 	 ExploreFiction 	 201.20330102174483
+10 	 GreypoCounting 	 181.8747663551402
+
+Total run time:  12812.1227684021 seconds
