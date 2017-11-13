@@ -43,11 +43,7 @@ def main():
             if not author_id: break
             if author_id[0] not in indices: continue
             results[indices[author_id[0]]][1].add(author_id[1])
-
-    t1 = time.time()
-    print(t1-t0)
-    return
-            
+        
     index = 0
     length = len(results)
     subreddit_connections = {}
